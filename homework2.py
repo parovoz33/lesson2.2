@@ -1,0 +1,5 @@
+count_tasks=(12)
+count_hours=float(1.5)
+course_name=("Курс: Pyton,")
+time=(count_hours/count_tasks)
+print(course_name,'всего задач:',count_tasks,',','затрачено часов:',count_hours,'среднее время выполнения',time)
